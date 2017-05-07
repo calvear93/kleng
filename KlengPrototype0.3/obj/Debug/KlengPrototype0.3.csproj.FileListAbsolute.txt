@@ -1,0 +1,116 @@
+c:\users\cristopher alvear\documents\visual studio 2015\Projects\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.exe.config
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.exe.config
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.exe
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\MaterialDesignColors.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\Microsoft.Speech.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\NAudio.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\bin\Debug\NAudio.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.csprojResolveAssemblyReference.cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\MainWindow.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\App.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\KlengPrototype0.3_MarkupCompile.cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\KlengPrototype0.3_MarkupCompile.lref
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\App.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\MainWindow.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.g.resources
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\KlengPrototype0._3.Properties.Resources.resources
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.csproj.GenerateResource.Cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.exe
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3 1\KlengPrototype0.3\obj\Debug\ResourceDictionary.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.exe.config
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.exe
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\BespokeFusion.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\itextsharp.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\MahApps.Metro.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\MaterialDesignColors.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\Microsoft.Speech.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\NAudio.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\itextsharp.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\MahApps.Metro.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\MahApps.Metro.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\bin\Debug\NAudio.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.csprojResolveAssemblyReference.cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\MainWindow.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\AboutView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\LoadingScreen.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\PairingTermsActivityView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\PairingTermsView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\ReadingActivityView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\ReadingView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\SaveReportView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\App.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\KlengPrototype0.3_MarkupCompile.cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\KlengPrototype0.3_MarkupCompile.lref
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\App.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\MainWindow.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\AboutView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\LoadingScreen.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\PairingTermsActivityView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\PairingTermsView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\ReadingActivityView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\ReadingView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\Views\SaveReportView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.g.resources
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\KlengPrototype0._3.Properties.Resources.resources
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.csproj.GenerateResource.Cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.exe
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.exe.config
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.exe
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\KlengPrototype0.3.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\BespokeFusion.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\itextsharp.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\MahApps.Metro.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\MaterialDesignColors.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\Microsoft.Speech.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\NAudio.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\itextsharp.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\MahApps.Metro.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\MahApps.Metro.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\bin\Debug\NAudio.xml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.csprojResolveAssemblyReference.cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\MainWindow.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\AboutView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\LoadingScreen.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\PairingTermsActivityView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\PairingTermsView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\ReadingActivityView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\ReadingView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\SaveReportView.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\App.g.cs
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\KlengPrototype0.3_MarkupCompile.cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\KlengPrototype0.3_MarkupCompile.lref
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\App.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\MainWindow.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\AboutView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\LoadingScreen.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\PairingTermsActivityView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\PairingTermsView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\ReadingActivityView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\ReadingView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\Views\SaveReportView.baml
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.g.resources
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\KlengPrototype0._3.Properties.Resources.resources
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.csproj.GenerateResource.Cache
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.exe
+C:\Users\Cristopher Alvear\Desktop\KlengPrototype0.3.2\KlengPrototype0.3\obj\Debug\KlengPrototype0.3.pdb

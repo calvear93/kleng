@@ -1,0 +1,52 @@
+﻿<Window
+    x:Class="Kleng.Views.LoadingScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Kleng.Views"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Width="640"
+    Height="480"
+    FontFamily="{DynamicResource MaterialDesignFont}"
+    AllowsTransparency="True"
+    Closing="Window_Closing"
+    Loaded="Window_Loaded"
+    ResizeMode="NoResize"
+    TextElement.FontSize="16"
+    TextElement.FontWeight="Regular"
+    TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+    TextOptions.TextFormattingMode="Ideal"
+    TextOptions.TextRenderingMode="Auto"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <Window.Background>
+        <SolidColorBrush Opacity="0.0" Color="White" />
+    </Window.Background>
+    <Grid Margin="10,10,0,108">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="4*" />
+        </Grid.ColumnDefinitions>
+        <ProgressBar
+            Name="Progress_Bar"
+            Grid.ColumnSpan="2"
+            Width="620"
+            Height="67"
+            Margin="0,285,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Maximum="100"
+            Minimum="0" />
+        <Image
+            x:Name="Logo"
+            Grid.Column="1"
+            Width="363"
+            Height="342"
+            Margin="27,-15,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Source="Resources/Images/logo.png" />
+    </Grid>
+</Window>

@@ -1,0 +1,143 @@
+﻿<Window
+    x:Class="Kleng.Views.SaveReportView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Kleng.Views"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="SaveReportView"
+    Width="300"
+    Height="380"
+    AllowsTransparency="True"
+    Left="128"
+    MouseLeftButtonDown="WindowMouseLeftButtonDown"
+    Top="128"
+    WindowStartupLocation="Manual"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <x:Code>
+        <![CDATA[            
+        private void WindowMouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            DragMove();
+        }
+    ]]>
+    </x:Code>
+    <Grid>
+        <Image
+            x:Name="background_png"
+            Source="Resources/Images/background_portrait.png"
+            Stretch="Fill" />
+        <materialDesign:PackIcon
+            Width="19"
+            Height="20"
+            Margin="26,78,0,0"
+            Foreground="DarkGreen"
+            Kind="Account" />
+        <Button
+            x:Name="Back_Button"
+            Grid.Row="0"
+            Width="29"
+            Height="30"
+            Margin="0,0,10,340"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}"
+            Click="Back_Button_Click">
+            <materialDesign:PackIcon
+                Width="19"
+                Height="20"
+                Kind="ArrowLeft" />
+        </Button>
+        <Button
+            x:Name="SaveReport"
+            Width="280"
+            Margin="10,338,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Click="SaveReport_Click"
+            Content="Guardar" />
+        <TextBox
+            x:Name="Name"
+            Width="212"
+            Height="23"
+            Margin="50,75,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            TextWrapping="Wrap"
+            ToolTip="Nombre del estudiante" />
+        <TextBox
+            x:Name="RUN"
+            Width="212"
+            Height="23"
+            Margin="50,103,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            TextWrapping="Wrap"
+            ToolTip="R.U.N. del estudiante" />
+        <materialDesign:PackIcon
+            Width="19"
+            Height="20"
+            Margin="26,106,0,0"
+            Foreground="DarkGreen"
+            Kind="AccountCardDetails" />
+        <TextBox
+            x:Name="Teacher"
+            Width="212"
+            Height="23"
+            Margin="50,131,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            TextWrapping="Wrap"
+            ToolTip="Nombre del profesor" />
+        <materialDesign:PackIcon
+            Width="19"
+            Height="20"
+            Margin="26,134,0,0"
+            Foreground="DarkGreen"
+            Kind="HumanGreeting" />
+        <TextBlock
+            x:Name="title"
+            Margin="44,179,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            FontWeight="Bold"
+            Text="Título de la actividad" />
+        <TextBlock
+            x:Name="time"
+            Margin="44,292,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            Text="Tiempo:" />
+        <TextBlock
+            x:Name="wrongs"
+            Margin="44,238,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            Text="Incorrectas:" />
+        <TextBlock
+            x:Name="corrects"
+            Margin="44,211,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            Text="Correctas:" />
+        <TextBlock
+            x:Name="modulation"
+            Margin="44,265,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            Text="Modulación:" />
+
+    </Grid>
+</Window>

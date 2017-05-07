@@ -1,0 +1,182 @@
+﻿<Window
+    x:Class="Kleng.Views.AboutView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Kleng.Views"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="SaveReportView"
+    Width="300"
+    Height="360"
+    AllowsTransparency="True"
+    MouseLeftButtonDown="WindowMouseLeftButtonDown"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="None"
+    mc:Ignorable="d">
+    <x:Code>
+        <![CDATA[            
+        private void WindowMouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            DragMove();
+        }
+    ]]>
+    </x:Code>
+    <Grid>
+        <Image
+            x:Name="background_png"
+            Source="Resources/Images/background_portrait.png"
+            Stretch="Fill" />
+        <materialDesign:PackIcon
+            Width="19"
+            Height="20"
+            Margin="26,59,0,0"
+            Kind="Face" />
+        <Button
+            x:Name="Back_Button"
+            Grid.Row="0"
+            Width="29"
+            Height="30"
+            Margin="0,0,10,320"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}"
+            Click="Back_Button_Click">
+            <materialDesign:PackIcon
+                Width="19"
+                Height="20"
+                Kind="ArrowLeft" />
+        </Button>
+        <TextBlock
+            x:Name="title"
+            Margin="48,61,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            FontWeight="Bold"
+            Text="Autor:" />
+        <TextBlock
+            x:Name="corrects"
+            Margin="92,61,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"><Run Text="Cristopher Alvear Candia" /><Run Text="." /></TextBlock>
+        <materialDesign:PackIcon
+            Width="19"
+            Height="20"
+            Margin="26,81,0,0"
+            Kind="Factory" />
+        <TextBlock
+            x:Name="title_Copy"
+            Margin="48,83,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            FontWeight="Bold"
+            Text="Institución:" />
+        <TextBlock
+            x:Name="corrects_Copy"
+            Margin="124,83,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            Text="Universidad del Bío-Bío" />
+        <TextBlock
+            x:Name="corrects_Copy1"
+            Margin="124,100,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            Text="Fernando May, Chillán." />
+        <TextBlock
+            x:Name="title_Copy1"
+            Margin="48,83,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            FontWeight="Bold"
+            Text="Institución:" />
+        <TextBlock
+            x:Name="title_Copy2"
+            Margin="92,147,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            FontWeight="Bold"
+            Text="Agradecimientos" />
+        <TextBlock
+            x:Name="corrects_Copy2"
+            Margin="132,177,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            Text="Carola Figueroa Flores." />
+        <TextBlock
+            x:Name="title_Copy3"
+            Margin="26,177,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            FontWeight="Bold"
+            Text="Proyecto e idea:" />
+        <TextBlock
+            x:Name="corrects_Copy3"
+            Margin="132,201,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"><Run Text="María Antonieta Soto" /><Run Text="." /></TextBlock>
+        <TextBlock
+            x:Name="title_Copy4"
+            Margin="26,201,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            FontWeight="Bold"
+            Text="Profesora Guía:" />
+        <TextBlock
+            x:Name="corrects_Copy4"
+            Margin="132,225,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"><Run Text="Alejandra Fuentes" /><Run Text="." /></TextBlock>
+        <TextBlock
+            x:Name="title_Copy5"
+            Margin="26,225,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            FontFamily="Roboto"
+            FontSize="14"
+            FontWeight="Bold"
+            Text="Orientación:" />
+        <Image
+            x:Name="image"
+            Width="132"
+            Height="45"
+            Margin="144,283,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Source="Resources/Images/kinect.png"
+            Stretch="Fill" />
+        <Image
+            x:Name="image1"
+            Width="62"
+            Height="90"
+            Margin="25,260,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Source="Resources/Images/ubb_logo.png" />
+
+    </Grid>
+</Window>
